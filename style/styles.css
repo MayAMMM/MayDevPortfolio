@@ -300,6 +300,15 @@ main
             }
     }
 
+.section .head 
+    {
+        font-size: 70px;
+        font-weight: 600;
+        color: var(--dark-color);
+        margin: 0 0 35px;
+        line-height: 1;
+    }
+
 .anim-elements
     {
         position: absolute;
